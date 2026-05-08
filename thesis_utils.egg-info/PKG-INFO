@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: thesis-utils
+Version: 0.1.0
+Summary: Private utility functions for thesis data analysis
+Requires-Python: >=3.9
